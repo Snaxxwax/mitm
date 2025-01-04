@@ -1,40 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Man In The Middle</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Man In The Middle</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Zero Trust Architecture: A Modern Approach to Security</title>
-      <link>http://localhost:1313/posts/zero-trust-architecture/</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zero-trust-architecture/</guid>
-      <description>&lt;p&gt;Explore how Zero Trust Architecture is revolutionizing enterprise security by eliminating implicit trust and continuously validating every stage of digital interaction.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Rise of AI in Cybersecurity</title>
-      <link>http://localhost:1313/posts/ai-cybersecurity/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai-cybersecurity/</guid>
-      <description>&lt;p&gt;Discover how artificial intelligence and machine learning are transforming threat detection, incident response, and vulnerability management.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cloud Security Best Practices for 2024</title>
-      <link>http://localhost:1313/posts/cloud-security-2024/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cloud-security-2024/</guid>
-      <description>&lt;p&gt;Stay ahead of the curve with these essential cloud security practices, from infrastructure as code to container security and compliance automation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;MAN_IN_THE_MIDDLE specializes in securing the critical space between systems and users. We provide expert penetration testing, security research, and vulnerability assessment services to help organizations protect their digital assets and infrastructure.&lt;/p&gt;&#xA;&lt;p&gt;Our expertise includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Penetration Testing&lt;/li&gt;&#xA;&lt;li&gt;Security Research&lt;/li&gt;&#xA;&lt;li&gt;Vulnerability Assessment&lt;/li&gt;&#xA;&lt;li&gt;Zero Trust Architecture&lt;/li&gt;&#xA;&lt;li&gt;Cloud Security&lt;/li&gt;&#xA;&lt;li&gt;AI Security Integration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We believe in a proactive approach to security, identifying and addressing vulnerabilities before they can be exploited.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Man In The Middle</title><link>http://mitm.life/</link><description>Recent content on Man In The Middle</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://mitm.life/index.xml" rel="self" type="application/rss+xml"/><item><title>Zero Trust Architecture: A Modern Approach to Security</title><link>http://mitm.life/posts/zero-trust-architecture/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>http://mitm.life/posts/zero-trust-architecture/</guid><description>&lt;p>Explore how Zero Trust Architecture is revolutionizing enterprise security by eliminating implicit trust and continuously validating every stage of digital interaction.&lt;/p></description></item><item><title>The Rise of AI in Cybersecurity</title><link>http://mitm.life/posts/ai-cybersecurity/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>http://mitm.life/posts/ai-cybersecurity/</guid><description>&lt;p>Discover how artificial intelligence and machine learning are transforming threat detection, incident response, and vulnerability management.&lt;/p></description></item><item><title>Cloud Security Best Practices for 2024</title><link>http://mitm.life/posts/cloud-security-2024/</link><pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate><guid>http://mitm.life/posts/cloud-security-2024/</guid><description>&lt;p>Stay ahead of the curve with these essential cloud security practices, from infrastructure as code to container security and compliance automation.&lt;/p></description></item><item><title>About</title><link>http://mitm.life/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://mitm.life/about/</guid><description>&lt;p>MAN_IN_THE_MIDDLE specializes in securing the critical space between systems and users. We provide expert penetration testing, security research, and vulnerability assessment services to help organizations protect their digital assets and infrastructure.&lt;/p>
+&lt;p>Our expertise includes:&lt;/p>
+&lt;ul>
+&lt;li>Penetration Testing&lt;/li>
+&lt;li>Security Research&lt;/li>
+&lt;li>Vulnerability Assessment&lt;/li>
+&lt;li>Zero Trust Architecture&lt;/li>
+&lt;li>Cloud Security&lt;/li>
+&lt;li>AI Security Integration&lt;/li>
+&lt;/ul>
+&lt;p>We believe in a proactive approach to security, identifying and addressing vulnerabilities before they can be exploited.&lt;/p></description></item></channel></rss>
