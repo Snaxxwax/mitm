@@ -1,17 +1,1 @@
-[build]
-  base = "project"
-  command = "npm run build"
-  publish = "dist"
-
-[build.environment]
-  NODE_VERSION = "18"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
-[dev]
-  command = "npm run dev"
-  port = 5173
-  publish = "dist"
+{"encoding": "base64", "content": "W2J1aWxkXQogIGJhc2UgPSAicHJvamVjdCIKICBjb21tYW5kID0gIm5wbSBydW4gYnVpbGQiCiAgcHVibGlzaCA9ICJkaXN0IgoKW2J1aWxkLmVudmlyb25tZW50XQogIE5PREVfVkVSU0lPTiA9ICIxOCIKCltbcmVkaXJlY3RzXV0KICBmcm9tID0gIi8qIgogIHRvID0gIi9pbmRleC5odG1sIgogIHN0YXR1cyA9IDIwMAoKW2Rldl0KICBjb21tYW5kID0gIm5wbSBydW4gZGV2IgogIHBvcnQgPSA1MTczCiAgcHVibGlzaCA9ICJkaXN0Ig=="}
