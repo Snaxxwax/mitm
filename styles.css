@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+header {
+  width: 100%;
+  max-width: 1200px;
+}
+
+#headerSvg {
+  width: 100%;
+  height: auto;
+}
+
+.wave {
+  animation: waveFlow 8s infinite linear;
+}
+
+.wave2 {
+  animation-delay: -4s;
+}
+
+.shield {
+  animation: shieldPulse 3s infinite ease-in-out;
+}
+
+.team-indicator {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.team-indicator:hover {
+  transform: scale(1.1);
+}
+
+.connection {
+  stroke-dasharray: 5,5;
+  animation: dashFlow 20s infinite linear;
+}
+
+@keyframes waveFlow {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes shieldPulse {
+  0%, 100% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+  50% {
+    transform: scale(1.05);
+    filter: brightness(1.2);
+  }
+}
+
+@keyframes dashFlow {
+  to {
+    stroke-dashoffset: -100;
+  }
+}
+
+.particle {
+  animation: particleFade 3s infinite ease-out;
+}
+
+@keyframes particleFade {
+  0% {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  50% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+}
